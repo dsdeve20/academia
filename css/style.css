@@ -55,7 +55,7 @@ body{
 
 /* header */
 header{
-    background-image: url('../images/bg_1.jpg');  
+    /* background-image: url('../images/bg_1.jpg');   */
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
@@ -299,7 +299,7 @@ header{
 }
 /* benefits start*/
 .leftbnefits{
-    background-image: url('/images/about.jpg');
+    /* background-image: url('/images/about.jpg'); */
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
@@ -365,7 +365,7 @@ header{
 /* countersecton start */
 
 .countersection{
-    background-image: url('/images/bg_3.jpg');
+    /* background-image: url('/images/bg_3.jpg'); */
     background-size: cover;
     background-position: center;
     padding: 5rem 0;
